@@ -1,4 +1,4 @@
-Plugin - sentiment analyzer
+A brief report on design decisions and problem-solving approaches of Sentiment Analyzer
 
 Step I followed,
 
